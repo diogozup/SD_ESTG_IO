@@ -1,0 +1,15 @@
+{
+  "name": "socketio101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0"
+  }
+}
